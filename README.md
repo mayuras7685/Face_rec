@@ -1,2 +1,2 @@
-# Face Recognition Using face_recognition and OPENCV
+# Face Recognition Using face_recognition Library and OPENCV
 
